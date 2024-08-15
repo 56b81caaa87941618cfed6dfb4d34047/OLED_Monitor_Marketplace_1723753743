@@ -36,5 +36,11 @@
         "content": "generate a video game themed background",
         "timestamp": "15082024210038",
         "message_id": "guest15082024210038"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "\"Sure thing, I'll work on designing a video game themed background.\"",
+        "timestamp": "15082024210039",
+        "message_id": "guest15082024210038"
     }
 ]
