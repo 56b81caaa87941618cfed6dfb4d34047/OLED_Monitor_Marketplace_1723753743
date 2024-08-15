@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the monkey themed background to be more cartoonish or realistic in style?\", \"option1\": \"Cartoonish\", \"option2\": \"Realistic\"}, {\"question 2\": \"Should this background be static or would you prefer a subtle animation (e.g., leaves moving, monkey tails swaying)?\", \"option1\": \"Static\", \"option2\": \"Subtle animation\"}], \"input_token_count\": 255, \"output_token_count\": 95, \"time_taken\": \"0:00:03.301505\"}",
+        "message_id": "guest15082024213909",
+        "timestamp": "15082024213919",
+        "component_file_name": "purple_background_cta_component_1723753746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, working on generating a monkey themed background.",
         "message_id": "guest15082024213909",
