@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the video game theme to be based on a specific game or a general video game aesthetic?\", \"option1\": \"Specific game\", \"option2\": \"General video game aesthetic\"}, {\"question 2\": \"Do you prefer the background to be animated or static?\", \"option1\": \"Animated\", \"option2\": \"Static\"}], \"input_token_count\": 316, \"output_token_count\": 84, \"time_taken\": \"0:00:02.949597\"}",
+        "message_id": "guest15082024210038",
+        "timestamp": "15082024210046",
+        "component_file_name": "purple_background_cta_component_1723753746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "\"Sure thing, I'll work on designing a video game themed background.\"",
         "message_id": "guest15082024210038",
