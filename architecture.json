@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "change the background to be video game themed"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: change the background to be video game themed\nAI: Sure, I'll work on making the background video game themed.\nUser: generate a video game themed background\nThis is the user's current request of changes to be made: generate a video game themed background"
     }
 ]
