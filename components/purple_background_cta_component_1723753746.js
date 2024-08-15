@@ -8,24 +8,23 @@ Vue.component("purple_background_cta_component_1723753746", {
         <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
             <div id="content-container" class="relative px-8 py-12 md:py-20 rounded-[3rem] overflow-hidden">
                 <!-- Radial gradient -->
-                <div id="radial-gradient" class="absolute flex items-center justify-center top-0 -translate-y-1/2 left-1/2 -translate-x-1/2 pointer-events-none -z-10 w-1/3 aspect-square" aria-hidden="true">
-                    <div id="radial-gradient-outer" class="bg-purple-500 absolute inset-0 translate-z-0 rounded-full blur-[120px] opacity-70"></div>
-                    <div id="radial-gradient-inner" class="absolute w-1/4 h-1/4 translate-z-0 rounded-full blur-[40px] bg-purple-400">
-                    </div>
+                <!-- Video game themed background -->
+                <div id="video-game-background" class="absolute inset-0 -z-10 overflow-hidden">
+                    <div class="absolute inset-0 bg-gradient-to-br from-blue-900 to-purple-900 opacity-80"></div>
+                    <div class="absolute inset-0 bg-[url('https://example.com/video-game-pattern.png')] bg-repeat opacity-20"></div>
+                    <div class="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-black to-transparent"></div>
                 </div>
                 <!-- Blurred shape -->
-                <div id="blurred-shape" class="absolute bottom-0 translate-y-1/2 left-0 blur-2xl opacity-50 pointer-events-none -z-10" aria-hidden="true">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="434" height="427">
-                        <defs><linearGradient id="bs5-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%"><stop offset="0%" class="#A855F7" /><stop offset="100%" class="6366F1" stop-opacity="0" /></linearGradient></defs>
-                        <path fill="url(#bs5-a)" fill-rule="evenodd" d="m0 0 461 369-284 58z" transform="matrix(1 0 0 -1 0 427)" />
-                    </svg>
+                <!-- Game controller icon -->
+                <div id="game-controller-icon" class="absolute top-4 right-4 text-white opacity-20">
+                    <i class='bx bx-game bx-lg'></i>
                 </div>
                 <!-- Content -->
                 <div id="content" class="max-w-3xl mx-auto text-center">
-                    <div id="content-subtitle" class="flex"><div id="content-subtitle-text" class="flex-1 font-medium bg-clip-text pb-3 text-transparent bg-gradient-to-r from-purple-500 to-purple-200">Shop, Compare, and Choose Your Ideal OLED Monitor</div></div>
-                    <div class="flex" id="content-title-container"><h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60"> Discover Stunning OLED Displays</h2></div>
-                    <div class="flex" id="content-body-container"><p id="content-body" class="flex-1 text-lg mb-8 text-slate-400">Find your perfect OLED monitor from top brands at competitive prices. Experience true blacks, vibrant colors, and unparalleled contrast for your gaming, creative, or professional needs.</p></div>
-                    <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-slate-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white">Get Started <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span></a>
+                    <div id="content-subtitle" class="flex"><div id="content-subtitle-text" class="flex-1 font-medium text-yellow-300 pb-3">Level Up Your Gaming Experience</div></div>
+                    <div class="flex" id="content-title-container"><h2 id="content-title" class="flex-1 h2 text-white pb-4">Discover Epic OLED Gaming Monitors</h2></div>
+                    <div class="flex" id="content-body-container"><p id="content-body" class="flex-1 text-lg mb-8 text-gray-300">Immerse yourself in breathtaking graphics with our selection of top-tier OLED gaming monitors. Experience true blacks, vibrant colors, and unparalleled contrast for the ultimate gaming adventure.</p></div>
+                    <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-white bg-gradient-to-r from-green-500 to-blue-500 hover:from-green-600 hover:to-blue-600 px-6 py-3 rounded-full shadow-lg">Start Your Quest <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span></a>
                 </div>
             </div>
         </div>
