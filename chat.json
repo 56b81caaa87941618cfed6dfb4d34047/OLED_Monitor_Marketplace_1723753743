@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific video game or genre in mind for the background theme?\", \"option1\": \"Yes, I have a specific game in mind.\", \"option2\": \"No, any popular gaming theme would work.\"}, {\"question 2\": \"Should the background remain static or would you prefer a dynamic background with subtle animations related to video games?\", \"option1\": \"Static background\", \"option2\": \"Dynamic background with animations\"}], \"input_token_count\": 258, \"output_token_count\": 103, \"time_taken\": \"0:00:02.874677\"}",
+        "message_id": "guest15082024205731",
+        "timestamp": "15082024205738",
+        "component_file_name": "purple_background_cta_component_1723753746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll work on making the background video game themed.",
         "message_id": "guest15082024205731",
