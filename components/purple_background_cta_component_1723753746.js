@@ -11,7 +11,7 @@ Vue.component("purple_background_cta_component_1723753746", {
                 <!-- Video game themed background -->
                 <div id="video-game-background" class="absolute inset-0 -z-10 overflow-hidden">
                     <div class="absolute inset-0 bg-gradient-to-br from-blue-900 to-purple-900 opacity-80"></div>
-                    <div class="absolute inset-0 bg-[url('https://example.com/video-game-pattern.png')] bg-repeat opacity-20"></div>
+                    <div class="absolute inset-0 bg-[url('https://example.com/video-game-background.jpg')] bg-cover bg-center opacity-20"></div>
                     <div class="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-black to-transparent"></div>
                 </div>
                 <!-- Blurred shape -->
