@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change the background to be video game themed",
+        "message_id": "guest15082024205731",
+        "timestamp": "15082024205731",
+        "component_file_name": "purple_background_cta_component_1723753746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
