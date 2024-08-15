@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "generate a monkey themed background"
+    },
+    {
+        "level": 1,
+        "task_description": "update the background to be snake themed"
     }
 ]
