@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the video game themed background to be more abstract or involve specific gaming characters?\", \"option1\": \"Abstract with gaming elements (e.g., controllers, screens)\", \"option2\": \"Specific characters from popular video games\"}, {\"question 2\": \"Do you have a preferred color scheme to complement the video game theme?\", \"option1\": \"Bright and vibrant colors to attract attention\", \"option2\": \"Darker tones for a more immersive experience\"}], \"input_token_count\": 337, \"output_token_count\": 108, \"time_taken\": \"0:00:06.049374\"}",
+        "message_id": "guest15082024213249",
+        "timestamp": "15082024213301",
+        "component_file_name": "purple_background_cta_component_1723753746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll replace the background with a video game theme.",
         "message_id": "guest15082024213249",
