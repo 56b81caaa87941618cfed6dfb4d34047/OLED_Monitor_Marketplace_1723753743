@@ -1,7 +1,3 @@
-/* Summary: The section has a blurred radial gradient background and a call-to-action (CTA) content block.
-It is centered on the page and includes a gradient-based title, a subtitle, a paragraph of text, and a button with a gradient background.
-*/
-
 Vue.component("purple_background_cta_component_1723753746", {
     template: `
     <section id="cta-section-container">
@@ -11,7 +7,7 @@ Vue.component("purple_background_cta_component_1723753746", {
                 <!-- Video game themed background -->
                 <div id="video-game-background" class="absolute inset-0 -z-10 overflow-hidden">
                     <div class="absolute inset-0 bg-gradient-to-br from-blue-900 to-purple-900 opacity-80"></div>
-                    <div class="absolute inset-0 bg-[url('https://example.com/video-game-background.jpg')] bg-cover bg-center opacity-20"></div>
+                    <div class="absolute inset-0 bg-[url('http://127.0.0.1:8000/get_image/OLED_Monitor_Marketplace_1723753743/a6520d9a0c66435a92c50994f7b4edfa.jpeg')] bg-cover bg-center opacity-20"></div>
                     <div class="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-black to-transparent"></div>
                 </div>
                 <!-- Blurred shape -->
@@ -36,4 +32,3 @@ Vue.component("purple_background_cta_component_1723753746", {
             };
         },
     });
-                    
