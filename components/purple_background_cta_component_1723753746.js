@@ -7,7 +7,7 @@ Vue.component("purple_background_cta_component_1723753746", {
                 <!-- Video game themed background -->
                 <div id="video-game-background" class="absolute inset-0 -z-10 overflow-hidden">
                     <div class="absolute inset-0 bg-gradient-to-br from-blue-900 to-purple-900 opacity-80"></div>
-                    <div class="absolute inset-0 bg-[url('http://127.0.0.1:8000/get_image/OLED_Monitor_Marketplace_1723753743/a6520d9a0c66435a92c50994f7b4edfa.jpeg')] bg-cover bg-center opacity-20"></div>
+                    <div class="absolute inset-0 bg-[url('https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/OLED_Monitor_Marketplace_1723753743/main/images/d6e87784e82e4545a84fae1899437ac7.jpeg')] bg-cover bg-center opacity-20"></div>
                     <div class="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-black to-transparent"></div>
                 </div>
                 <!-- Blurred shape -->
