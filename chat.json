@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the new garbage truck image to follow a specific color scheme or branding guidelines?\", \"option1\": \"Yes, I will provide the color scheme or branding guidelines.\", \"option2\": \"No, any high-quality image of a garbage truck will do.\"}, {\"question 2\": \"Should the new image have a specific orientation or size to fit a certain area of the website?\", \"option1\": \"Yes, I will specify the orientation and size.\", \"option2\": \"No, use the standard dimensions for website images.\"}], \"input_token_count\": 270, \"output_token_count\": 122, \"time_taken\": \"0:00:03.472872\"}",
+        "message_id": "guest16082024192222",
+        "timestamp": "16082024192227",
+        "component_file_name": "purple_background_cta_component_1723753746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to a garbage truck",
         "message_id": "guest16082024192222",
