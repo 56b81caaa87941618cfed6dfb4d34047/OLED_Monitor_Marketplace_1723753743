@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the piranha background to convey any specific mood or atmosphere (e.g., menacing, serene)?\", \"option1\": \"Yes, a menacing atmosphere.\", \"option2\": \"Yes, a serene atmosphere.\"}, {\"question 2\": \"Do you prefer the piranha image to be stylized (e.g., artistic or abstract) or to have a more photo-realistic appearance?\", \"option1\": \"Stylized\", \"option2\": \"Photo-realistic\"}], \"input_token_count\": 398, \"output_token_count\": 114, \"time_taken\": \"0:00:03.329320\"}",
+        "message_id": "guest16082024004848",
+        "timestamp": "16082024004857",
+        "component_file_name": "purple_background_cta_component_1723753746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change this background to be of a realistic picture of piranhas",
         "message_id": "guest16082024004848",
