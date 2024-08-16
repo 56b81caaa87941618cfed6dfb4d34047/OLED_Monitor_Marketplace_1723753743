@@ -1,6 +1,15 @@
 [
     {
         "role": "user",
+        "content": "change this background to be of a realistic picture of piranhas",
+        "message_id": "guest16082024004848",
+        "timestamp": "16082024004848",
+        "component_file_name": "purple_background_cta_component_1723753746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
         "content": "update the background to be snake themed",
         "message_id": "guest15082024215157",
         "timestamp": "15082024215157",
