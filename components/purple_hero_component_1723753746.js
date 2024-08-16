@@ -1,3 +1,4 @@
+
 /* Summary: Contains a section with the following components:
 1. Particles animation: A canvas element for displaying a particle animation in the background.
 2. Illustration: An SVG illustration with a gradient background and various filters applied.
@@ -47,6 +48,7 @@ Vue.component("purple_hero_component_1723753746", {
                         </a>
                     </div>
                 </div>
+                <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/OLED_Monitor_Marketplace_1723753743/main/images/dcf87f277cec4fbca2f279416487e20a.jpeg" alt="Illustration" class="my-8" />
             </div>
         </div>
     </div>
