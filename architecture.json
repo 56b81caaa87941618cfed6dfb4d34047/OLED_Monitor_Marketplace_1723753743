@@ -22,5 +22,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nUser requested to change the background to be video game themed. AI acknowledged this request and stated its intention to work on the change. It then asked the user for more details about the project to better understand the requirements.\nAI: Got it, working on generating a monkey themed background.\nAI: Okay, I'll replace the background with a video game theme.\nUser: replace the background image with a video game themed image\nAI: \"Sure thing, I'll work on designing a video game themed background.\"\nUser: generate a video game themed background\nThis is the user's current request of changes to be made: change this background to be of a realistic picture of piranhas"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nchange the image to a garbage truck"
     }
 ]
