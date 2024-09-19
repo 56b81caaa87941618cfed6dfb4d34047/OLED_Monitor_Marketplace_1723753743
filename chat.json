@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific position would you like the hadoken button to be placed on the screen?\", \"option1\": \"Top right corner\", \"option2\": \"Bottom center\"}, {\"question 2\": \"What style do you envision for the hadoken button?\", \"option1\": \"Minimalistic design\", \"option2\": \"Colorful and animated design\"}], \"input_token_count\": 527, \"output_token_count\": 85, \"time_taken\": \"0:00:02.062515\"}",
+        "message_id": "guest19092024201916",
+        "timestamp": "19092024201927",
+        "component_file_name": "purple_header_component_1723753746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a hadoken button",
         "message_id": "guest19092024201916",
