@@ -28,7 +28,14 @@ Vue.component("purple_header_component_1723753746", {
                     <li><a id="sign-in-link" class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-slate-300 hover:text-white" href="signin.html">Sign in</a></li>
                     <li class="ml-6"><a id="sign-up-link" class="btn-sm transition duration-150 ease-in-out w-full group relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none text-slate-300 hover:text-white [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]" href="signup.html"><span class="relative inline-flex items-center">Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span></span></a></li>
                 </ul>
-    
+
+                <div class="flex-1 flex justify-end items-center ml-4">
+                    <button id="hadoken-button" class="btn-sm transition duration-150 ease-in-out text-white hover:text-yellow-300 bg-gradient-to-r from-blue-600 to-blue-400 hover:from-blue-500 hover:to-blue-300 rounded-full px-4 py-2 shadow-lg flex items-center" @click="performHadoken">
+                        <i class='bx bxs-hot mr-2'></i>
+                        Hadoken!
+                    </button>
+                </div>
+
                 <div id="mobile-menu" class="md:hidden flex items-center ml-4" x-data="{ expanded: false }">
     
                     <button id="hamburger-button" class="hamburger" :class="{ 'active': expanded }" @click.stop="expanded = !expanded" aria-controls="mobile-nav" :aria-expanded="expanded">
@@ -60,6 +67,14 @@ Vue.component("purple_header_component_1723753746", {
                 expanded: false, 
                 tab: null,
             };
+        },
+        methods: {
+            // Hadoken method
+            performHadoken() {
+                console.log("Hadoken!");
+                // Add your Hadoken logic here
+            }
+            // End of Hadoken method
         },
     });
                     
